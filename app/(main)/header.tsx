@@ -34,7 +34,7 @@ function Header() {
       <Overview />
     </div>
     <script src="https://fastly.jsdelivr.net/gh/mocchen/cssmeihua/js/yinghua.js"></script>
-    <script async src="https://github.com/moelinmtf/nezha-dash/blob/main/app/(main)/main.js"></script>
+    <script async src="https://raw.githubusercontent.com/moelinmtf/nezha-dash/main/app/(main)/main.js"></script>
     </>
   );
 }
